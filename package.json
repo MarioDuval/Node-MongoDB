@@ -1,0 +1,31 @@
+{
+  "name": "objects",
+  "version": "1.0.0",
+  "description": "En aquest exercici anem afegir el paquet framework express.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "http-errors": "^2.0.0",
+    "mongodb": "^4.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioDuval/node-express-extendeduser-1.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/MarioDuval/node-express-extendeduser-1/issues"
+  },
+  "homepage": "https://github.com/MarioDuval/node-express-extendeduser-1#readme",
+  "devDependencies": {}
+}
